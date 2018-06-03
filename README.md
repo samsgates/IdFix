@@ -29,3 +29,6 @@ How to use IdFix?
  
 
 Project Details : http://epubfix.blogspot.com/search/label/IdFix
+
+Prerequisite:
+https://github.com/ComponentFactory/Krypton
