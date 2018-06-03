@@ -1,4 +1,4 @@
-# ePubTxt
+# IdFix - Indesign to Fixed layout epub conversion tool
 
 Happy to release IdFix code to everyone
 
