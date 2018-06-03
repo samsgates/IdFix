@@ -1,0 +1,5 @@
+D:\SamData\FixEpub\IdFix\IdFix\FixService\bin\Debug\FixService.dll
+D:\SamData\FixEpub\IdFix\IdFix\FixService\bin\Debug\FixService.pdb
+D:\SamData\FixEpub\IdFix\IdFix\FixService\bin\Debug\CryptoLib.dll
+D:\SamData\FixEpub\IdFix\IdFix\FixService\obj\Debug\FixService.dll
+D:\SamData\FixEpub\IdFix\IdFix\FixService\obj\Debug\FixService.pdb
